@@ -1,0 +1,10 @@
+1. pwd: 
+pwd prints the full filename of the current working directory. Use pwd to print either logical (-L), where it prints the value of pwd, or physical (-P), where it prints the physical directory. By default, pwd behaves as though -L is specified.
+2. rmdir: 
+rmdir removes empty directories. Within this command there are other options, such as —ignore-fail-on-non-empty, in the case that the directory is nonempty, as well as -p and —parents that remove the directory and its ancestors. And finally -v, —verbose, —help, and —version. 
+3. find: 
+find searches for files in a directory hierarchy. It is very important to consider whether the environment being worked in is security sensitive. If it is, there is  a chapter called ‘Security Considerations’ in findutils documentation called Finding Files.
+4. mv:
+mv command moves and renames files. One can rename for example source to dest, or move source to directory. Within this command there are other options such as making a backup of each existing destination file using —backup.
+5. more:
+more serves as a filter for programmers to page through text one screenful at a time. In order to specify an integer which is the screen size, for example, one must use the option -num. 
