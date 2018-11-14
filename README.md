@@ -1,2 +1,2 @@
 # cs240
-C++ Course
+Work completed in C++ course
