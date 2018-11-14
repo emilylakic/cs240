@@ -1,2 +1,13 @@
 1
-Lakic, Emily, emilylakic, emilyl1!, 20, 35, Euclid Avenue, Ardsley, 10502, 2000.000000
+Lakic, Emily, emilylakic, emilyl1!, 20, 1261, Angelo Drive, Beverly Hills, 90209, 2000.000000
+
+//last name
+//first name
+//username
+//password (test numbers and special characters)
+//age
+//street number
+//street address
+//city
+//zipcode
+//amount to donate (utilize float to test decimal)
